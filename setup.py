@@ -35,13 +35,13 @@ setup(
         ],
         'anim': [
             'keyframed',
-            'numpy',
+            'numpy=1.18.5',
             'opencv-python-headless',
         ],
         'anim_ui': [
             'keyframed',
             'gradio',
-            'numpy',
+            'numpy=1.18.5',
             'opencv-python-headless',
             'tqdm',
         ]
